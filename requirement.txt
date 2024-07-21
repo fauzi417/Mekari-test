@@ -1,0 +1,8 @@
+python-dotenv==1.0.1 # For reading environment variables stored in .env file
+langchain==0.2.2
+langchain-community==0.2.3
+pinecone-client==4.1.2
+pinecone-plugin-inference==1.0.2
+pinecone-plugin-interface==0.0.7
+streamlit==0.87.0
+sklearn==1.2.2
